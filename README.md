@@ -10,11 +10,11 @@ Akshaya Vangalapudi – 2420090047
 
 Supervisor: G. Lavanya
 
-Abstract:
+Abstract
 
 Disaster situations require quick and reliable decisions to ensure public safety. The AI-Powered Adaptive Disaster Management and Intelligent Evacuation Route Recommendation System uses artificial intelligence to analyze disaster conditions, identify potential hazards, and recommend safer evacuation routes. The system dynamically adapts its recommendations based on changing conditions such as blocked routes, crowd density, and hazard locations. It aims to assist authorities and individuals in making faster evacuation decisions, reducing risks, and improving disaster response efficiency. The project demonstrates the application of AI and Adaptive Software Engineering principles in developing a responsive and intelligent emergency management solution.
 
-Project Overview:
+Project Overview
 
 The project aims to develop an intelligent disaster management system that provides adaptive evacuation recommendations during emergency situations. It analyzes changing environmental and disaster conditions and dynamically suggests safer routes to users.
 
