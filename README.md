@@ -3,7 +3,7 @@ Team Details
 
 Team ID: 2420090047
 
-Team Members
+Team Members:
 Allam Greshmica – 2420030017
 Mikkineni Thanvitha – 2420030040
 Akshaya Vangalapudi – 2420090047
