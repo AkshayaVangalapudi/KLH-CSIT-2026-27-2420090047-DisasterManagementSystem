@@ -1,24 +1,24 @@
-AI-Powered Adaptive Disaster Management and Intelligent Evacuation Route Recommendation System
-Team Details
+# AI-Powered Adaptive Disaster Management and Intelligent Evacuation Route Recommendation System
+## Team Details
 
-Team ID: 2420090047
+### Team ID: 2420090047
 
-Team Members:
+### Team Members:
 Allam Greshmica – 2420030017
 Mikkineni Thanvitha – 2420030040
 Akshaya Vangalapudi – 2420090047
 
-Supervisor: G. Lavanya
+## Supervisor: G. Lavanya
 
-Abstract
+## Abstract
 
 Disaster situations require quick and reliable decisions to ensure public safety. The AI-Powered Adaptive Disaster Management and Intelligent Evacuation Route Recommendation System uses artificial intelligence to analyze disaster conditions, identify potential hazards, and recommend safer evacuation routes. The system dynamically adapts its recommendations based on changing conditions such as blocked routes, crowd density, and hazard locations. It aims to assist authorities and individuals in making faster evacuation decisions, reducing risks, and improving disaster response efficiency. The project demonstrates the application of AI and Adaptive Software Engineering principles in developing a responsive and intelligent emergency management solution.
 
-Project Overview
+## Project Overview
 
 The project aims to develop an intelligent disaster management system that provides adaptive evacuation recommendations during emergency situations. It analyzes changing environmental and disaster conditions and dynamically suggests safer routes to users.
 
-Key Features:
+## Key Features:
 AI-based disaster condition analysis
 Intelligent evacuation route recommendations
 Dynamic adaptation to blocked or unsafe routes
@@ -27,21 +27,10 @@ Crowd-density consideration
 Real-time route updates
 User-friendly map-based interface
 
-Technologies Used:
-React.js
-Next.js
-TypeScript
-Tailwind CSS
-Python
-FastAPI
-Google Gemini API
-Mapbox GL JS
-PostgreSQL
-Docker
-Git
-GitHub
+## Technologies Used:
+Jira, Scrum, GitHub, Figma, Google Gemini, GitHub Copilot
 
-Project Structure:
+## Project Structure:
 /src       - Source code
 /docs      - Project documentation
 /data      - Dataset or documented data-source references
@@ -49,7 +38,7 @@ Project Structure:
 /reports   - Phase-wise project reports
 README.md  - Project documentation
 
-Setup and Execution
+## Setup and Execution
 Prerequisites:
 Node.js
 Python
@@ -78,7 +67,7 @@ Current Phase Status
 Phase: Initial Development / Phase 1
 Status: Project setup and initial system design completed. Development of the AI-based disaster analysis and adaptive evacuation recommendation modules is in progress.
 
-Development Approach:
+## Development Approach:
 
 The project follows Adaptive Software Engineering principles, allowing the system to evolve based on changing requirements, testing results, and user feedback. Development will be carried out incrementally through regular iterations and progressive improvements.
 
